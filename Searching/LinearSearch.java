@@ -18,7 +18,7 @@ public class LinearSearch {
         }
 
         if (c==0) {
-            System.out.println(-1);
+            System.out.println("Invalid");
         }
     }
 }
